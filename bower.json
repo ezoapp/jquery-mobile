@@ -1,0 +1,11 @@
+{
+  "name": "jquery-mobile",
+  "homepage": "https://github.com/ezoapp/jquery-mobile",
+  "authors": [
+    "Frontier Fang <sagafang@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true
+}
